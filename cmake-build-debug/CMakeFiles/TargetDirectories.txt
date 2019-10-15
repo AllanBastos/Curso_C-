@@ -1,0 +1,3 @@
+/home/allan/CLionProjects/Curso_Cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/allan/CLionProjects/Curso_Cpp/cmake-build-debug/CMakeFiles/Curso_C__.dir
+/home/allan/CLionProjects/Curso_Cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
